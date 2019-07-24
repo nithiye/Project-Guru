@@ -1,233 +1,233 @@
-﻿Country,Region
-Burundi,AFRICA
-Comoros,AFRICA
-Djibouti,AFRICA
-Eritrea,AFRICA
-Ethiopia,AFRICA
-Kenya,AFRICA
-Madagascar,AFRICA
-Malawi,AFRICA
-Mauritius,AFRICA
-Mayotte,AFRICA
-Mozambique,AFRICA
-R‚union,AFRICA
-Rwanda,AFRICA
-Seychelles,AFRICA
-Somalia,AFRICA
-South Sudan,AFRICA
-Uganda,AFRICA
-United Republic of Tanzania,AFRICA
-Zambia,AFRICA
-Zimbabwe,AFRICA
-Angola,AFRICA
-Cameroon,AFRICA
-Central African Republic,AFRICA
-Chad,AFRICA
-Congo,AFRICA
-Democratic Republic of the Congo,AFRICA
-Equatorial Guinea,AFRICA
-Gabon,AFRICA
-Sao Tome and Principe,AFRICA
-Algeria,AFRICA
-Egypt,AFRICA
-Libya,AFRICA
-Morocco,AFRICA
-Sudan,AFRICA
-Tunisia,AFRICA
-Western Sahara,AFRICA
-Botswana,AFRICA
-Lesotho,AFRICA
-Namibia,AFRICA
-South Africa,AFRICA
-Swaziland,AFRICA
-Benin,AFRICA
-Burkina Faso,AFRICA
-Cabo Verde,AFRICA
-Cote d'Ivoire,AFRICA
-Gambia,AFRICA
-Ghana,AFRICA
-Guinea,AFRICA
-Guinea-Bissau,AFRICA
-Liberia,AFRICA
-Mali,AFRICA
-Mauritania,AFRICA
-Niger,AFRICA
-Nigeria,AFRICA
-Saint Helena,AFRICA
-Senegal,AFRICA
-Sierra Leone,AFRICA
-Togo,AFRICA
-Kazakhstan,ASIA
-Kyrgyzstan,ASIA
-Tajikistan,ASIA
-Turkmenistan,ASIA
-Uzbekistan,ASIA
-China,ASIA
-"China, Hong Kong SAR",ASIA
-"China, Macao SAR",ASIA
-Dem. People's Republic of Korea,ASIA
-Japan,ASIA
-Mongolia,ASIA
-Republic of Korea,ASIA
-Afghanistan,ASIA
-Bangladesh,ASIA
-Bhutan,ASIA
-India,ASIA
-Iran (Islamic Republic of),ASIA
-Maldives,ASIA
-Nepal,ASIA
-Pakistan,ASIA
-Sri Lanka,ASIA
-Brunei Darussalam,ASIA
-Cambodia,ASIA
-Indonesia,ASIA
-Lao People's Democratic Republic,ASIA
-Malaysia,ASIA
-Myanmar,ASIA
-Philippines,ASIA
-Singapore,ASIA
-Thailand,ASIA
-Timor-Leste,ASIA
-Viet Nam,ASIA
-Armenia,ASIA
-Azerbaijan,ASIA
-Bahrain,ASIA
-Cyprus,ASIA
-Georgia,ASIA
-Iraq,ASIA
-Israel,ASIA
-Jordan,ASIA
-Kuwait,ASIA
-Lebanon,ASIA
-Oman,ASIA
-Qatar,ASIA
-Saudi Arabia,ASIA
-State of Palestine,ASIA
-Syrian Arab Republic,ASIA
-Turkey,ASIA
-United Arab Emirates,ASIA
-Yemen,ASIA
-Belarus,EUROPE
-Bulgaria,EUROPE
-Czechia,EUROPE
-Hungary,EUROPE
-Poland,EUROPE
-Republic of Moldova,EUROPE
-Romania,EUROPE
-Russian Federation,EUROPE
-Slovakia,EUROPE
-Ukraine,EUROPE
-Channel Islands,EUROPE
-Denmark,EUROPE
-Estonia,EUROPE
-Faeroe Islands,EUROPE
-Finland,EUROPE
-Iceland,EUROPE
-Ireland,EUROPE
-Isle of Man,EUROPE
-Latvia,EUROPE
-Lithuania,EUROPE
-Norway,EUROPE
-Sweden,EUROPE
-United Kingdom,EUROPE
-Albania,EUROPE
-Andorra,EUROPE
-Bosnia and Herzegovina,EUROPE
-Croatia,EUROPE
-Gibraltar,EUROPE
-Greece,EUROPE
-Holy See,EUROPE
-Italy,EUROPE
-Malta,EUROPE
-Montenegro,EUROPE
-Portugal,EUROPE
-San Marino,EUROPE
-Serbia,EUROPE
-Slovenia,EUROPE
-Spain,EUROPE
-TFYR Macedonia,EUROPE
-Austria,EUROPE
-Belgium,EUROPE
-France,EUROPE
-Germany,EUROPE
-Liechtenstein,EUROPE
-Luxembourg,EUROPE
-Monaco,EUROPE
-Netherlands,EUROPE
-Switzerland,EUROPE
-Anguilla,LA AND CARIBBEAN
-Antigua and Barbuda,LA AND CARIBBEAN
-Aruba,LA AND CARIBBEAN
-Bahamas,LA AND CARIBBEAN
-Barbados,LA AND CARIBBEAN
-British Virgin Islands,LA AND CARIBBEAN
-Caribbean Netherlands,LA AND CARIBBEAN
-Cayman Islands,LA AND CARIBBEAN
-Cuba,LA AND CARIBBEAN
-Curacao,LA AND CARIBBEAN
-Dominica,LA AND CARIBBEAN
-Dominican Republic,LA AND CARIBBEAN
-Grenada,LA AND CARIBBEAN
-Guadeloupe,LA AND CARIBBEAN
-Haiti,LA AND CARIBBEAN
-Jamaica,LA AND CARIBBEAN
-Martinique,LA AND CARIBBEAN
-Montserrat,LA AND CARIBBEAN
-Puerto Rico,LA AND CARIBBEAN
-Saint Kitts and Nevis,LA AND CARIBBEAN
-Saint Lucia,LA AND CARIBBEAN
-Saint Vincent and the Grenadines,LA AND CARIBBEAN
-Sint Maarten (Dutch part),LA AND CARIBBEAN
-Trinidad and Tobago,LA AND CARIBBEAN
-Turks and Caicos Islands,LA AND CARIBBEAN
-United States Virgin Islands,LA AND CARIBBEAN
-Belize,LA AND CARIBBEAN
-Costa Rica,LA AND CARIBBEAN
-El Salvador,LA AND CARIBBEAN
-Guatemala,LA AND CARIBBEAN
-Honduras,LA AND CARIBBEAN
-Mexico,LA AND CARIBBEAN
-Nicaragua,LA AND CARIBBEAN
-Panama,LA AND CARIBBEAN
-Argentina,LA AND CARIBBEAN
-Bolivia (Plurinational State of),LA AND CARIBBEAN
-Brazil,LA AND CARIBBEAN
-Chile,LA AND CARIBBEAN
-Colombia,LA AND CARIBBEAN
-Ecuador,LA AND CARIBBEAN
-Falkland Islands (Malvinas),LA AND CARIBBEAN
-French Guiana,LA AND CARIBBEAN
-Guyana,LA AND CARIBBEAN
-Paraguay,LA AND CARIBBEAN
-Peru,LA AND CARIBBEAN
-Suriname,LA AND CARIBBEAN
-Uruguay,LA AND CARIBBEAN
-Venezuela (Bolivarian Republic of),LA AND CARIBBEAN
-Bermuda,NORTHERN AMERICA
-Canada,NORTHERN AMERICA
-Greenland,NORTHERN AMERICA
-Saint Pierre and Miquelon,NORTHERN AMERICA
-United States of America,NORTHERN AMERICA
-Australia,OCEANIA
-New Zealand,OCEANIA
-Fiji,OCEANIA
-New Caledonia,OCEANIA
-Papua New Guinea,OCEANIA
-Solomon Islands,OCEANIA
-Vanuatu,OCEANIA
-Guam,OCEANIA
-Kiribati,OCEANIA
-Marshall Islands,OCEANIA
-Micronesia (Fed. States of),OCEANIA
-Nauru,OCEANIA
-Northern Mariana Islands,OCEANIA
-Palau,OCEANIA
-American Samoa,OCEANIA
-Cook Islands,OCEANIA
-French Polynesia,OCEANIA
-Niue,OCEANIA
-Samoa,OCEANIA
-Tokelau,OCEANIA
-Tonga,OCEANIA
-Tuvalu,OCEANIA
-Wallis and Futuna Islands,OCEANIA
+﻿Country,Region,Dev Level,Income Range
+Afghanistan,ASIA,Least developed,Low-income
+Albania,EUROPE,More Developed,Upper-middle-income
+Algeria,AFRICA,Less Developed,Upper-middle-income
+American Samoa,OCEANIA,Less Developed,Upper-middle-income
+Andorra,EUROPE,More Developed,High-income
+Angola,AFRICA,Least developed,Lower-middle-income
+Anguilla,LA AND CARIBBEAN,Less Developed,NA
+Antigua and Barbuda,LA AND CARIBBEAN,Less Developed,High-income
+Argentina,LA AND CARIBBEAN,Less Developed,Upper-middle-income
+Armenia,ASIA,Less Developed,Lower-middle-income
+Aruba,LA AND CARIBBEAN,Less Developed,High-income
+Australia,OCEANIA,More Developed,High-income
+Austria,EUROPE,More Developed,High-income
+Azerbaijan,ASIA,Less Developed,Upper-middle-income
+Bahamas,LA AND CARIBBEAN,Less Developed,High-income
+Bahrain,ASIA,Less Developed,High-income
+Bangladesh,ASIA,Least developed,Lower-middle-income
+Barbados,LA AND CARIBBEAN,Less Developed,High-income
+Belarus,EUROPE,More Developed,Upper-middle-income
+Belgium,EUROPE,More Developed,High-income
+Belize,LA AND CARIBBEAN,Less Developed,Upper-middle-income
+Benin,AFRICA,Least developed,Low-income
+Bermuda,NORTHERN AMERICA,More Developed,High-income
+Bhutan,ASIA,Least developed,Lower-middle-income
+Bolivia (Plurinational State of),LA AND CARIBBEAN,Less Developed,Lower-middle-income
+Bosnia and Herzegovina,EUROPE,More Developed,Upper-middle-income
+Botswana,AFRICA,Less Developed,Upper-middle-income
+Brazil,LA AND CARIBBEAN,Less Developed,Upper-middle-income
+British Virgin Islands,LA AND CARIBBEAN,Less Developed,High-income
+Brunei Darussalam,ASIA,Less Developed,High-income
+Bulgaria,EUROPE,More Developed,Upper-middle-income
+Burkina Faso,AFRICA,Least developed,Low-income
+Burundi,AFRICA,Least developed,Low-income
+Cabo Verde,AFRICA,Less Developed,Lower-middle-income
+Cambodia,ASIA,Least developed,Lower-middle-income
+Cameroon,AFRICA,Less Developed,Lower-middle-income
+Canada,NORTHERN AMERICA,More Developed,High-income
+Caribbean Netherlands,LA AND CARIBBEAN,Less Developed,NA
+Cayman Islands,LA AND CARIBBEAN,Less Developed,High-income
+Central African Republic,AFRICA,Least developed,Low-income
+Chad,AFRICA,Least developed,Low-income
+Channel Islands,EUROPE,More Developed,High-income
+Chile,LA AND CARIBBEAN,Less Developed,High-income
+China,ASIA,Less Developed,Upper-middle-income
+"China, Hong Kong SAR",ASIA,Less Developed,High-income
+"China, Macao SAR",ASIA,Less Developed,High-income
+Colombia,LA AND CARIBBEAN,Less Developed,Upper-middle-income
+Comoros,AFRICA,Least developed,Low-income
+Congo,AFRICA,Less Developed,Lower-middle-income
+Cook Islands,OCEANIA,Less Developed,NA
+Costa Rica,LA AND CARIBBEAN,Less Developed,Upper-middle-income
+Côte d'Ivoire,AFRICA,Less Developed,Lower-middle-income
+Croatia,EUROPE,More Developed,Upper-middle-income
+Cuba,LA AND CARIBBEAN,Less Developed,Upper-middle-income
+Curaçao,LA AND CARIBBEAN,Less Developed,High-income
+Cyprus,ASIA,Less Developed,High-income
+Czechia,EUROPE,More Developed,High-income
+Dem. People's Republic of Korea,ASIA,Less Developed,Low-income
+Democratic Republic of the Congo,AFRICA,Least developed,Low-income
+Denmark,EUROPE,More Developed,High-income
+Djibouti,AFRICA,Least developed,Lower-middle-income
+Dominica,LA AND CARIBBEAN,Less Developed,Upper-middle-income
+Dominican Republic,LA AND CARIBBEAN,Less Developed,Upper-middle-income
+Ecuador,LA AND CARIBBEAN,Less Developed,Upper-middle-income
+Egypt,AFRICA,Less Developed,Lower-middle-income
+El Salvador,LA AND CARIBBEAN,Less Developed,Lower-middle-income
+Equatorial Guinea,AFRICA,Less Developed,Upper-middle-income
+Eritrea,AFRICA,Least developed,Low-income
+Estonia,EUROPE,More Developed,High-income
+Ethiopia,AFRICA,Least developed,Low-income
+Faeroe Islands,EUROPE,More Developed,High-income
+Falkland Islands (Malvinas),LA AND CARIBBEAN,Less Developed,NA
+Fiji,OCEANIA,Less Developed,Upper-middle-income
+Finland,EUROPE,More Developed,High-income
+France,EUROPE,More Developed,High-income
+French Guiana,LA AND CARIBBEAN,Less Developed,NA
+French Polynesia,OCEANIA,Less Developed,High-income
+Gabon,AFRICA,Less Developed,Upper-middle-income
+Gambia,AFRICA,Least developed,Low-income
+Georgia,ASIA,Less Developed,Lower-middle-income
+Germany,EUROPE,More Developed,High-income
+Ghana,AFRICA,Less Developed,Lower-middle-income
+Gibraltar,EUROPE,More Developed,High-income
+Greece,EUROPE,More Developed,High-income
+Greenland,NORTHERN AMERICA,More Developed,High-income
+Grenada,LA AND CARIBBEAN,Less Developed,Upper-middle-income
+Guadeloupe,LA AND CARIBBEAN,Less Developed,NA
+Guam,OCEANIA,Less Developed,High-income
+Guatemala,LA AND CARIBBEAN,Less Developed,Lower-middle-income
+Guinea,AFRICA,Least developed,Low-income
+Guinea-Bissau,AFRICA,Least developed,Low-income
+Guyana,LA AND CARIBBEAN,Less Developed,Upper-middle-income
+Haiti,LA AND CARIBBEAN,Least developed,Low-income
+Holy See,EUROPE,More Developed,NA
+Honduras,LA AND CARIBBEAN,Less Developed,Lower-middle-income
+Hungary,EUROPE,More Developed,High-income
+Iceland,EUROPE,More Developed,High-income
+India,ASIA,Less Developed,Lower-middle-income
+Indonesia,ASIA,Less Developed,Lower-middle-income
+Iran (Islamic Republic of),ASIA,Less Developed,Upper-middle-income
+Iraq,ASIA,Less Developed,Upper-middle-income
+Ireland,EUROPE,More Developed,High-income
+Isle of Man,EUROPE,More Developed,High-income
+Israel,ASIA,Less Developed,High-income
+Italy,EUROPE,More Developed,High-income
+Jamaica,LA AND CARIBBEAN,Less Developed,Upper-middle-income
+Japan,ASIA,More Developed,High-income
+Jordan,ASIA,Less Developed,Lower-middle-income
+Kazakhstan,ASIA,Less Developed,Upper-middle-income
+Kenya,AFRICA,Less Developed,Lower-middle-income
+Kiribati,OCEANIA,Least developed,Lower-middle-income
+Kuwait,ASIA,Less Developed,High-income
+Kyrgyzstan,ASIA,Less Developed,Lower-middle-income
+Lao People's Democratic Republic,ASIA,Least developed,Lower-middle-income
+Latvia,EUROPE,More Developed,High-income
+Lebanon,ASIA,Less Developed,Upper-middle-income
+Lesotho,AFRICA,Least developed,Lower-middle-income
+Liberia,AFRICA,Least developed,Low-income
+Libya,AFRICA,Less Developed,Upper-middle-income
+Liechtenstein,EUROPE,More Developed,High-income
+Lithuania,EUROPE,More Developed,High-income
+Luxembourg,EUROPE,More Developed,High-income
+Madagascar,AFRICA,Least developed,Low-income
+Malawi,AFRICA,Least developed,Low-income
+Malaysia,ASIA,Less Developed,Upper-middle-income
+Maldives,ASIA,Less Developed,Upper-middle-income
+Mali,AFRICA,Least developed,Low-income
+Malta,EUROPE,More Developed,High-income
+Marshall Islands,OCEANIA,Less Developed,Upper-middle-income
+Martinique,LA AND CARIBBEAN,Less Developed,NA
+Mauritania,AFRICA,Least developed,Lower-middle-income
+Mauritius,AFRICA,Less Developed,Upper-middle-income
+Mayotte,AFRICA,Less Developed,NA
+Mexico,LA AND CARIBBEAN,Less Developed,Upper-middle-income
+Micronesia (Fed. States of),OCEANIA,Less Developed,Lower-middle-income
+Monaco,EUROPE,More Developed,High-income
+Mongolia,ASIA,Less Developed,Lower-middle-income
+Montenegro,EUROPE,More Developed,Upper-middle-income
+Montserrat,LA AND CARIBBEAN,Less Developed,NA
+Morocco,AFRICA,Less Developed,Lower-middle-income
+Mozambique,AFRICA,Least developed,Low-income
+Myanmar,ASIA,Least developed,Lower-middle-income
+Namibia,AFRICA,Less Developed,Upper-middle-income
+Nauru,OCEANIA,Less Developed,Upper-middle-income
+Nepal,ASIA,Least developed,Low-income
+Netherlands,EUROPE,More Developed,High-income
+New Caledonia,OCEANIA,Less Developed,High-income
+New Zealand,OCEANIA,More Developed,High-income
+Nicaragua,LA AND CARIBBEAN,Less Developed,Lower-middle-income
+Niger,AFRICA,Least developed,Low-income
+Nigeria,AFRICA,Less Developed,Lower-middle-income
+Niue,OCEANIA,Less Developed,NA
+Northern Mariana Islands,OCEANIA,Less Developed,High-income
+Norway,EUROPE,More Developed,High-income
+Oman,ASIA,Less Developed,High-income
+Pakistan,ASIA,Less Developed,Lower-middle-income
+Palau,OCEANIA,Less Developed,High-income
+Panama,LA AND CARIBBEAN,Less Developed,Upper-middle-income
+Papua New Guinea,OCEANIA,Less Developed,Lower-middle-income
+Paraguay,LA AND CARIBBEAN,Less Developed,Upper-middle-income
+Peru,LA AND CARIBBEAN,Less Developed,Upper-middle-income
+Philippines,ASIA,Less Developed,Lower-middle-income
+Poland,EUROPE,More Developed,High-income
+Portugal,EUROPE,More Developed,High-income
+Puerto Rico,LA AND CARIBBEAN,Less Developed,High-income
+Qatar,ASIA,Less Developed,High-income
+Republic of Korea,ASIA,Less Developed,High-income
+Republic of Moldova,EUROPE,More Developed,Lower-middle-income
+Réunion,AFRICA,Less Developed,NA
+Romania,EUROPE,More Developed,Upper-middle-income
+Russian Federation,EUROPE,More Developed,Upper-middle-income
+Rwanda,AFRICA,Least developed,Low-income
+Saint Helena,AFRICA,Less Developed,NA
+Saint Kitts and Nevis,LA AND CARIBBEAN,Less Developed,High-income
+Saint Lucia,LA AND CARIBBEAN,Less Developed,Upper-middle-income
+Saint Pierre and Miquelon,NORTHERN AMERICA,More Developed,NA
+Saint Vincent and the Grenadines,LA AND CARIBBEAN,Less Developed,Upper-middle-income
+Samoa,OCEANIA,Less Developed,Upper-middle-income
+San Marino,EUROPE,More Developed,High-income
+Sao Tome and Principe,AFRICA,Least developed,Lower-middle-income
+Saudi Arabia,ASIA,Less Developed,High-income
+Senegal,AFRICA,Least developed,Low-income
+Serbia,EUROPE,More Developed,Upper-middle-income
+Seychelles,AFRICA,Less Developed,High-income
+Sierra Leone,AFRICA,Least developed,Low-income
+Singapore,ASIA,Less Developed,High-income
+Sint Maarten (Dutch part),LA AND CARIBBEAN,Less Developed,High-income
+Slovakia,EUROPE,More Developed,High-income
+Slovenia,EUROPE,More Developed,High-income
+Solomon Islands,OCEANIA,Least developed,Lower-middle-income
+Somalia,AFRICA,Least developed,Low-income
+South Africa,AFRICA,Less Developed,Upper-middle-income
+South Sudan,AFRICA,Least developed,Low-income
+Spain,EUROPE,More Developed,High-income
+Sri Lanka,ASIA,Less Developed,Lower-middle-income
+State of Palestine,ASIA,Less Developed,Lower-middle-income
+Sudan,AFRICA,Least developed,Lower-middle-income
+Suriname,LA AND CARIBBEAN,Less Developed,Upper-middle-income
+Swaziland,AFRICA,Less Developed,Lower-middle-income
+Sweden,EUROPE,More Developed,High-income
+Switzerland,EUROPE,More Developed,High-income
+Syrian Arab Republic,ASIA,Less Developed,Lower-middle-income
+Tajikistan,ASIA,Less Developed,Lower-middle-income
+TFYR Macedonia,EUROPE,More Developed,Upper-middle-income
+Thailand,ASIA,Less Developed,Upper-middle-income
+Timor-Leste,ASIA,Least developed,Lower-middle-income
+Togo,AFRICA,Least developed,Low-income
+Tokelau,OCEANIA,Less Developed,NA
+Tonga,OCEANIA,Less Developed,Upper-middle-income
+Trinidad and Tobago,LA AND CARIBBEAN,Less Developed,High-income
+Tunisia,AFRICA,Less Developed,Lower-middle-income
+Turkey,ASIA,Less Developed,Upper-middle-income
+Turkmenistan,ASIA,Less Developed,Upper-middle-income
+Turks and Caicos Islands,LA AND CARIBBEAN,Less Developed,High-income
+Tuvalu,OCEANIA,Least developed,Upper-middle-income
+Uganda,AFRICA,Least developed,Low-income
+Ukraine,EUROPE,More Developed,Lower-middle-income
+United Arab Emirates,ASIA,Less Developed,High-income
+United Kingdom,EUROPE,More Developed,High-income
+United Republic of Tanzania,AFRICA,Least developed,Low-income
+United States of America,NORTHERN AMERICA,More Developed,High-income
+United States Virgin Islands,LA AND CARIBBEAN,Less Developed,High-income
+Uruguay,LA AND CARIBBEAN,Less Developed,High-income
+Uzbekistan,ASIA,Less Developed,Lower-middle-income
+Vanuatu,OCEANIA,Least developed,Lower-middle-income
+Venezuela (Bolivarian Republic of),LA AND CARIBBEAN,Less Developed,Upper-middle-income
+Viet Nam,ASIA,Less Developed,Lower-middle-income
+Wallis and Futuna Islands,OCEANIA,Less Developed,NA
+Western Sahara,AFRICA,Less Developed,NA
+Yemen,ASIA,Least developed,Lower-middle-income
+Zambia,AFRICA,Least developed,Lower-middle-income
+Zimbabwe,AFRICA,Less Developed,Low-income
