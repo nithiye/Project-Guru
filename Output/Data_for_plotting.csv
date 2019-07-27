@@ -1,37 +1,81 @@
-﻿Origin,Dev Level,Income Range,2005_x,2010_x,2015_x,2017_x,Indicator,2005_y,2010_y,2015_y,2017_y
-Afghanistan,Least developed,Low-income,3826255,4989209,4855376,4826464,"Personal remittances, received (current US$)",0,346251493.5,348624717.3,734310164.3
-Afghanistan,Least developed,Low-income,3826255,4989209,4855376,4826464,GDP (current US$),6209140044,15856574731,19907111419,20191764940
-Bangladesh,Least developed,Lower-middle-income,5765158,6742845,7246726,7499919,"Personal remittances, received (current US$)",4642385284,10850211617,15295536095,13498232549
-Bangladesh,Least developed,Lower-middle-income,5765158,6742845,7246726,7499919,GDP (current US$),69442943089,1.15E+11,1.95E+11,2.50E+11
-China,Less Developed,Upper-middle-income,7242306,8648435,9674720,9961559,"Personal remittances, received (current US$)",3337061829,13636040942,44445297190,28675983092
-China,Less Developed,Upper-middle-income,7242306,8648435,9674720,9961559,GDP (current US$),2.29E+12,6.09E+12,1.10E+13,1.21E+13
-Germany,More Developed,High-income,3585342,3849980,4032528,4207957,"Personal remittances, received (current US$)",6865779219,12791629121,15570943908,16689031816
-Germany,More Developed,High-income,3585342,3849980,4032528,4207957,GDP (current US$),2.86E+12,3.42E+12,3.38E+12,3.69E+12
-India,Less Developed,Lower-middle-income,9649626,13320745,15859419,16587070,"Personal remittances, received (current US$)",22125089480,53479960083,68909693353,68967175500
-India,Less Developed,Lower-middle-income,9649626,13320745,15859419,16587070,GDP (current US$),8.20E+11,1.68E+12,2.10E+12,2.65E+12
-Indonesia,Less Developed,Lower-middle-income,2714351,3486338,3974691,4233788,"Personal remittances, received (current US$)",5419620729,6916051073,9659168639,8989529971
-Indonesia,Less Developed,Lower-middle-income,2714351,3486338,3974691,4233788,GDP (current US$),2.86E+11,7.55E+11,8.61E+11,1.02E+12
-Italy,More Developed,High-income,2739747,2612391,2872011,3029145,"Personal remittances, received (current US$)",4093518585,7977047600,9606441417,9740162570
-Italy,More Developed,High-income,2739747,2612391,2872011,3029145,GDP (current US$),1.85E+12,2.13E+12,1.83E+12,1.95E+12
-Kazakhstan,Less Developed,Upper-middle-income,3718926,3811293,3905768,4074446,"Personal remittances, received (current US$)",62021921.33,225556234.3,294269675.9,560420963.9
-Kazakhstan,Less Developed,Upper-middle-income,3718926,3811293,3905768,4074446,GDP (current US$),57123671734,1.48E+11,1.84E+11,1.63E+11
-Mexico,Less Developed,Upper-middle-income,10816544,12413073,12546524,12964869,"Personal remittances, received (current US$)",22741840920,22080259154,26233171803,32270507679
-Mexico,Less Developed,Upper-middle-income,10816544,12413073,12546524,12964869,GDP (current US$),8.77E+11,1.06E+12,1.17E+12,1.16E+12
-Pakistan,Less Developed,Lower-middle-income,3896494,5006753,5922305,5978635,"Personal remittances, received (current US$)",4280000000,9690000000,19306000000,19688000000
-Pakistan,Less Developed,Lower-middle-income,3896494,5006753,5922305,5978635,GDP (current US$),1.10E+11,1.77E+11,2.71E+11,3.05E+11
-Philippines,Less Developed,Lower-middle-income,3700591,4704919,5423323,5680682,"Personal remittances, received (current US$)",13732557722,21556633836,29799395700,32809770434
-Philippines,Less Developed,Lower-middle-income,3700591,4704919,5423323,5680682,GDP (current US$),1.03E+11,2.00E+11,2.93E+11,3.14E+11
-Poland,More Developed,High-income,2907295,3855177,4258157,4701465,"Personal remittances, received (current US$)",6471000000,7659000000,6783000000,6870000000
-Poland,More Developed,High-income,2907295,3855177,4258157,4701465,GDP (current US$),3.06E+11,4.79E+11,4.78E+11,5.26E+11
-Romania,More Developed,Upper-middle-income,2106961,3274229,3412055,3578504,"Personal remittances, received (current US$)",951783338.2,641386614.5,3085453945,4299105930
-Romania,More Developed,Upper-middle-income,2106961,3274229,3412055,3578504,GDP (current US$),98452791983,1.66E+11,1.78E+11,2.11E+11
-Russian Federation,More Developed,Upper-middle-income,10385025,10213313,10354892,10635994,"Personal remittances, received (current US$)",3436560000,5250020000,6903390000,8235000000
-Russian Federation,More Developed,Upper-middle-income,10385025,10213313,10354892,10635994,GDP (current US$),7.64E+11,1.52E+12,1.36E+12,1.58E+12
-Syrian Arab Republic,Less Developed,Lower-middle-income,861759,1079749,6238472,6864445,"Personal remittances, received (current US$)",823000000,1622538750,1622538750,1622538750
-Syrian Arab Republic,Less Developed,Lower-middle-income,861759,1079749,6238472,6864445,GDP (current US$),28858965517,0,0,0
-Turkey,Less Developed,Upper-middle-income,2693172,2695109,3100282,3418932,"Personal remittances, received (current US$)",1368000000,1819000000,1395000000,1048000000
-Turkey,Less Developed,Upper-middle-income,2693172,2695109,3100282,3418932,GDP (current US$),5.01E+11,7.72E+11,8.60E+11,8.52E+11
-Ukraine,More Developed,Lower-middle-income,5567494,5458664,5842594,5941653,"Personal remittances, received (current US$)",2408000000,6535000000,8474000000,12132000000
-Ukraine,More Developed,Lower-middle-income,5567494,5458664,5842594,5941653,GDP (current US$),86057915585,1.36E+11,91030959455,1.12E+11
-United Kingdom,More Developed,High-income,4140641,4461688,4726184,4921285,"Personal remittances, received (current US$)",6045166080,4951404773,4998792885,4309283085
-United Kingdom,More Developed,High-income,4140641,4461688,4726184,4921285,GDP (current US$),2.53E+12,2.45E+12,2.90E+12,2.64E+12
+Origin,Dev Level,Income Range,2005,2010,2015,2017,Indicator,2005,2010,2015,2017
+India,Less Developed,Lower-middle-income,9649626,13320745,15859419,16587070,"Personal remittances, received (% of GDP)",2.696926349,3.1916609780000003,3.2758172919999997,2.600031827
+India,Less Developed,Lower-middle-income,9649626,13320745,15859419,16587070,"Personal remittances, received (current US$)",22.12508948,53.479960083,68.909693353,68.9671755
+India,Less Developed,Lower-middle-income,9649626,13320745,15859419,16587070,GDP growth (annual %),7.9234286670000005,8.497586876,7.9962537860000005,7.167888861000001
+India,Less Developed,Lower-middle-income,9649626,13320745,15859419,16587070,GDP (current US$),820.0,1680.0,2100.0,2650.0
+Mexico,Less Developed,Upper-middle-income,10816544,12413073,12546524,12964869,"Personal remittances, received (% of GDP)",2.591733014,2.087373049,2.2410699380000003,2.786574181
+Mexico,Less Developed,Upper-middle-income,10816544,12413073,12546524,12964869,"Personal remittances, received (current US$)",22.74184092,22.080259154,26.233171803,32.270507679
+Mexico,Less Developed,Upper-middle-income,10816544,12413073,12546524,12964869,GDP growth (annual %),2.307807066,5.118118143,3.2879915989999997,2.069715185
+Mexico,Less Developed,Upper-middle-income,10816544,12413073,12546524,12964869,GDP (current US$),877.0,1060.0,1170.0,1160.0
+Russian Federation,More Developed,Upper-middle-income,10385025,10213313,10354892,10635994,"Personal remittances, received (% of GDP)",0.449801446,0.344282239,0.506264191,0.521656815
+Russian Federation,More Developed,Upper-middle-income,10385025,10213313,10354892,10635994,"Personal remittances, received (current US$)",3.43656,5.25002,6.90339,8.235
+Russian Federation,More Developed,Upper-middle-income,10385025,10213313,10354892,10635994,GDP growth (annual %),6.399965448,4.5,-2.307733505,1.630195944
+Russian Federation,More Developed,Upper-middle-income,10385025,10213313,10354892,10635994,GDP (current US$),764.0,1520.0,1360.0,1580.0
+China,Less Developed,Upper-middle-income,7242306,8648435,9674720,9961559,"Personal remittances, received (% of GDP)",0.145980386,0.224013018,0.403478066,0.23614282
+China,Less Developed,Upper-middle-income,7242306,8648435,9674720,9961559,"Personal remittances, received (current US$)",3.337061829,13.636040942,44.44529719,28.675983092
+China,Less Developed,Upper-middle-income,7242306,8648435,9674720,9961559,GDP growth (annual %),11.39577594,10.63614046,6.90531667,6.757007611000001
+China,Less Developed,Upper-middle-income,7242306,8648435,9674720,9961559,GDP (current US$),2290.0,6090.0,11000.0,12100.0
+Bangladesh,Least developed,Lower-middle-income,5765158,6742845,7246726,7499919,"Personal remittances, received (% of GDP)",6.685179338999999,9.412125648,7.840701094,5.405263403999999
+Bangladesh,Least developed,Lower-middle-income,5765158,6742845,7246726,7499919,"Personal remittances, received (current US$)",4.642385284,10.850211617,15.295536095,13.498232549
+Bangladesh,Least developed,Lower-middle-income,5765158,6742845,7246726,7499919,GDP growth (annual %),6.535944941,5.5718022739999995,6.552652796,7.284184092
+Bangladesh,Least developed,Lower-middle-income,5765158,6742845,7246726,7499919,GDP (current US$),69.442943089,115.0,195.0,250.0
+Pakistan,Less Developed,Lower-middle-income,3896494,5006753,5922305,5978635,"Personal remittances, received (% of GDP)",3.90860075,5.4620211979999995,7.135672818,6.456101852000001
+Pakistan,Less Developed,Lower-middle-income,3896494,5006753,5922305,5978635,"Personal remittances, received (current US$)",4.28,9.69,19.306,19.688
+Pakistan,Less Developed,Lower-middle-income,3896494,5006753,5922305,5978635,GDP growth (annual %),7.667304271,1.6066919590000002,4.731147475,5.700621241
+Pakistan,Less Developed,Lower-middle-income,3896494,5006753,5922305,5978635,GDP (current US$),110.0,177.0,271.0,305.0
+Ukraine,More Developed,Lower-middle-income,5567494,5458664,5842594,5941653,"Personal remittances, received (% of GDP)",2.798115645,4.80468228,9.308920889,10.81376379
+Ukraine,More Developed,Lower-middle-income,5567494,5458664,5842594,5941653,"Personal remittances, received (current US$)",2.408,6.535,8.474,12.132
+Ukraine,More Developed,Lower-middle-income,5567494,5458664,5842594,5941653,GDP growth (annual %),2.997359032,3.8343876989999996,-9.772973947,2.4660534519999997
+Ukraine,More Developed,Lower-middle-income,5567494,5458664,5842594,5941653,GDP (current US$),86.057915585,136.0,91.030959455,112.0
+Philippines,Less Developed,Lower-middle-income,3700591,4704919,5423323,5680682,"Personal remittances, received (% of GDP)",13.32332098,10.80041591,10.17828961,10.46164046
+Philippines,Less Developed,Lower-middle-income,3700591,4704919,5423323,5680682,"Personal remittances, received (current US$)",13.732557722,21.556633836,29.7993957,32.809770434
+Philippines,Less Developed,Lower-middle-income,3700591,4704919,5423323,5680682,GDP growth (annual %),4.77766782,7.63226478,6.066548905,6.677553566
+Philippines,Less Developed,Lower-middle-income,3700591,4704919,5423323,5680682,GDP (current US$),103.0,200.0,293.0,314.0
+United Kingdom,More Developed,High-income,4140641,4461688,4726184,4921285,"Personal remittances, received (% of GDP)",0.239412001,0.20185924600000002,0.172585187,0.16336245
+United Kingdom,More Developed,High-income,4140641,4461688,4726184,4921285,"Personal remittances, received (current US$)",6.04516608,4.951404773,4.998792885,4.309283085
+United Kingdom,More Developed,High-income,4140641,4461688,4726184,4921285,GDP growth (annual %),3.148724236,1.711206445,2.349122692,1.822927774
+United Kingdom,More Developed,High-income,4140641,4461688,4726184,4921285,GDP (current US$),2530.0,2450.0,2900.0,2640.0
+Poland,More Developed,High-income,2907295,3855177,4258157,4701465,"Personal remittances, received (% of GDP)",2.113841184,1.5978838069999999,1.420293346,1.305163036
+Poland,More Developed,High-income,2907295,3855177,4258157,4701465,"Personal remittances, received (current US$)",6.471,7.659,6.783,6.87
+Poland,More Developed,High-income,2907295,3855177,4258157,4701465,GDP growth (annual %),3.49366448,3.606928261,3.838945167,4.814129544
+Poland,More Developed,High-income,2907295,3855177,4258157,4701465,GDP (current US$),306.0,479.0,478.0,526.0
+Indonesia,Less Developed,Lower-middle-income,2714351,3486338,3974691,4233788,"Personal remittances, received (% of GDP)",1.895843189,0.915919025,1.122044621,0.885298633
+Indonesia,Less Developed,Lower-middle-income,2714351,3486338,3974691,4233788,"Personal remittances, received (current US$)",5.419620729,6.916051073,9.659168639,8.989529971
+Indonesia,Less Developed,Lower-middle-income,2714351,3486338,3974691,4233788,GDP growth (annual %),5.692571303999999,6.223854181,4.8763223,5.067406366
+Indonesia,Less Developed,Lower-middle-income,2714351,3486338,3974691,4233788,GDP (current US$),286.0,755.0,861.0,1020.0
+Germany,More Developed,High-income,3585342,3849980,4032528,4207957,"Personal remittances, received (% of GDP)",0.239943894,0.37434226299999995,0.460489531,0.451884876
+Germany,More Developed,High-income,3585342,3849980,4032528,4207957,"Personal remittances, received (current US$)",6.865779219,12.791629121,15.570943908,16.689031816
+Germany,More Developed,High-income,3585342,3849980,4032528,4207957,GDP growth (annual %),0.706713948,4.079933305,1.738967619,2.15710947
+Germany,More Developed,High-income,3585342,3849980,4032528,4207957,GDP (current US$),2860.0,3420.0,3380.0,3690.0
+Kazakhstan,Less Developed,Upper-middle-income,3718926,3811293,3905768,4074446,"Personal remittances, received (% of GDP)",0.10857481599999999,0.15235412,0.159592265,0.344055338
+Kazakhstan,Less Developed,Upper-middle-income,3718926,3811293,3905768,4074446,"Personal remittances, received (current US$)",0.06202192133,0.22555623430000002,0.29426967589999997,0.5604209639
+Kazakhstan,Less Developed,Upper-middle-income,3718926,3811293,3905768,4074446,GDP growth (annual %),9.699999999,7.3,1.2,4.1
+Kazakhstan,Less Developed,Upper-middle-income,3718926,3811293,3905768,4074446,GDP (current US$),57.123671734,148.0,184.0,163.0
+State of Palestine,Less Developed,Lower-middle-income,3047671,3342282,3732417,3803893,"Personal remittances, received (% of GDP)",7.830151058999999,10.40198569,14.40747496,14.78040488
+State of Palestine,Less Developed,Lower-middle-income,3047671,3342282,3732417,3803893,"Personal remittances, received (current US$)",0.3783372389,0.9271393866000001,1.825859302,2.14287788
+State of Palestine,Less Developed,Lower-middle-income,3047671,3342282,3732417,3803893,GDP growth (annual %),10.79876211,8.099089262,3.428732254,3.14023678
+State of Palestine,Less Developed,Lower-middle-income,3047671,3342282,3732417,3803893,GDP (current US$),4.8318,8.9131,12.673,14.4981
+Romania,More Developed,Upper-middle-income,2106961,3274229,3412055,3578504,"Personal remittances, received (% of GDP)",0.96674083,0.385854065,1.734439302,2.033569027
+Romania,More Developed,Upper-middle-income,2106961,3274229,3412055,3578504,"Personal remittances, received (current US$)",0.9517833382,0.6413866145,3.085453945,4.29910593
+Romania,More Developed,Upper-middle-income,2106961,3274229,3412055,3578504,GDP growth (annual %),4.668148051,-3.90123628,3.871522323,6.991393542999999
+Romania,More Developed,Upper-middle-income,2106961,3274229,3412055,3578504,GDP (current US$),98.452791983,166.0,178.0,211.0
+Turkey,Less Developed,Upper-middle-income,2693172,2695109,3100282,3418932,"Personal remittances, received (% of GDP)",0.27282718899999997,0.235651747,0.162247624,0.123069808
+Turkey,Less Developed,Upper-middle-income,2693172,2695109,3100282,3418932,"Personal remittances, received (current US$)",1.368,1.819,1.395,1.048
+Turkey,Less Developed,Upper-middle-income,2693172,2695109,3100282,3418932,GDP growth (annual %),9.009853307,8.487372139,6.085886616,7.441193291
+Turkey,Less Developed,Upper-middle-income,2693172,2695109,3100282,3418932,GDP (current US$),501.0,772.0,860.0,852.0
+Egypt,Less Developed,Lower-middle-income,1900048,2611995,3200613,3412957,"Personal remittances, received (% of GDP)",5.594312792999999,5.689248172,5.508117795,10.5100444
+Egypt,Less Developed,Lower-middle-income,1900048,2611995,3200613,3412957,"Personal remittances, received (current US$)",5.0173,12.4531,18.3254,24.7374
+Egypt,Less Developed,Lower-middle-income,1900048,2611995,3200613,3412957,GDP growth (annual %),4.471744472,5.147234858,4.372019078,4.181221
+Egypt,Less Developed,Lower-middle-income,1900048,2611995,3200613,3412957,GDP (current US$),89.68572523,219.0,333.0,235.0
+Italy,More Developed,High-income,2739747,2612391,2872011,3029145,"Personal remittances, received (% of GDP)",0.220953343,0.375380186,0.524290935,0.500375577
+Italy,More Developed,High-income,2739747,2612391,2872011,3029145,"Personal remittances, received (current US$)",4.093518585,7.9770476,9.606441417,9.74016257
+Italy,More Developed,High-income,2739747,2612391,2872011,3029145,GDP growth (annual %),0.9496662579999999,1.686523403,0.923992488,1.68418261
+Italy,More Developed,High-income,2739747,2612391,2872011,3029145,GDP (current US$),1850.0,2130.0,1830.0,1950.0
+United States of America,More Developed,High-income,2285444,2654105,2918838,3016349,"Personal remittances, received (% of GDP)",0.036780949,0.03955429,0.036104575,0.032337042
+United States of America,More Developed,High-income,2285444,2654105,2918838,3016349,"Personal remittances, received (current US$)",4.795,5.93,6.578,6.301
+United States of America,More Developed,High-income,2285444,2654105,2918838,3016349,GDP growth (annual %),3.5132137969999997,2.563766558,2.8809104660000004,2.21701033
+United States of America,More Developed,High-income,2285444,2654105,2918838,3016349,GDP (current US$),13000.0,15000.0,18200.0,19500.0
+Morocco,Less Developed,Lower-middle-income,2376184,2766342,2852573,2898721,"Personal remittances, received (% of GDP)",7.361251707999999,6.889900967999999,6.823044803999999,6.219197132000001
+Morocco,Less Developed,Lower-middle-income,2376184,2766342,2852573,2898721,"Personal remittances, received (current US$)",4.58922682,6.42254153,6.903543638,6.823002118
+Morocco,Less Developed,Lower-middle-income,2376184,2766342,2852573,2898721,GDP growth (annual %),3.2916396839999997,3.8157179169999997,4.536378168,4.0875068169999995
+Morocco,Less Developed,Lower-middle-income,2376184,2766342,2852573,2898721,GDP (current US$),62.343022651,93.216746662,101.0,110.0
