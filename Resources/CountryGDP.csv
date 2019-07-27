@@ -1,4 +1,4 @@
-﻿Country,Indicator Name,2005,2010,2015,2017
+﻿Country,Indicator,2005,2010,2015,2017
 Aruba,"Personal remittances, received (% of GDP)",0.035175564,0.207992522,0.300328912,0.27736605
 Aruba,"Personal remittances, received (current US$)",819846.0963,4972067.039,8083713.408,7490432.875
 Aruba,GDP growth (annual %),1.214348832,-3.685029581,-0.450585761,1.330511037
@@ -83,10 +83,10 @@ Bahrain,"Personal remittances, received (% of GDP)",,,,
 Bahrain,"Personal remittances, received (current US$)",,,,
 Bahrain,GDP growth (annual %),6.768939709,4.334407088,2.861967825,3.803522262
 Bahrain,GDP (current US$),15968726862,25713271277,31125851064,35432686170
-"Bahamas, The","Personal remittances, received (% of GDP)",,,,
-"Bahamas, The","Personal remittances, received (current US$)",,,,
-"Bahamas, The",GDP growth (annual %),3.395355597,1.538777407,1.044959524,1.437191339
-"Bahamas, The",GDP (current US$),9836200000,10095760000,11792300000,12162100000
+Bahamas,"Personal remittances, received (% of GDP)",,,,
+Bahamas,"Personal remittances, received (current US$)",,,,
+Bahamas,GDP growth (annual %),3.395355597,1.538777407,1.044959524,1.437191339
+Bahamas,GDP (current US$),9836200000,10095760000,11792300000,12162100000
 Bosnia and Herzegovina,"Personal remittances, received (% of GDP)",18.15682427,10.60911711,11.11005999,11.15404436
 Bosnia and Herzegovina,"Personal remittances, received (current US$)",2037731948,1822304847,1801111958,2016664396
 Bosnia and Herzegovina,GDP growth (annual %),8.7592567,0.872151023,3.088223761,3.163559487
@@ -103,10 +103,10 @@ Bermuda,"Personal remittances, received (% of GDP)",,21.95899879,,
 Bermuda,"Personal remittances, received (current US$)",,1261415801,1445391572,1505955305
 Bermuda,GDP growth (annual %),1.674207149,-2.094113534,,
 Bermuda,GDP (current US$),4868136000,5744414000,,
-Bolivia,"Personal remittances, received (% of GDP)",3.529556061,4.886670517,3.608942542,3.753793537
-Bolivia,"Personal remittances, received (current US$)",337040056.7,960212746.8,1190958194,1407996989
-Bolivia,GDP growth (annual %),4.421434767,4.126719369,4.857188015,4.195209367
-Bolivia,GDP (current US$),9549077869,19649631451,33000198263,37508642258
+Bolivia (Plurinational State of),"Personal remittances, received (% of GDP)",3.529556061,4.886670517,3.608942542,3.753793537
+Bolivia (Plurinational State of),"Personal remittances, received (current US$)",337040056.7,960212746.8,1190958194,1407996989
+Bolivia (Plurinational State of),GDP growth (annual %),4.421434767,4.126719369,4.857188015,4.195209367
+Bolivia (Plurinational State of),GDP (current US$),9549077869,19649631451,33000198263,37508642258
 Brazil,"Personal remittances, received (% of GDP)",0.314632464,0.139564554,0.160741696,0.13141689
 Brazil,"Personal remittances, received (current US$)",2805358000,3082801866,2896909952,2698770651
 Brazil,GDP growth (annual %),3.20213138,7.52822583,-3.545763393,1.063861259
@@ -155,18 +155,18 @@ China,"Personal remittances, received (% of GDP)",0.145980386,0.224013018,0.4034
 China,"Personal remittances, received (current US$)",3337061829,13636040942,44445297190,28675983092
 China,GDP growth (annual %),11.39577594,10.63614046,6.90531667,6.757007611
 China,GDP (current US$),2.29E+12,6.09E+12,1.10E+13,1.21E+13
-Cote d'Ivoire,"Personal remittances, received (% of GDP)",0.955074788,1.500843925,1.014897388,0.899264464
-Cote d'Ivoire,"Personal remittances, received (current US$)",163173835.6,373477565.8,336246809.7,342202592
-Cote d'Ivoire,GDP growth (annual %),1.721247367,2.017638592,8.84285995,7.702089422
-Cote d'Ivoire,GDP (current US$),17084927540,24884503951,33131113901,38053610009
+Côte d'Ivoire,"Personal remittances, received (% of GDP)",0.955074788,1.500843925,1.014897388,0.899264464
+Côte d'Ivoire,"Personal remittances, received (current US$)",163173835.6,373477565.8,336246809.7,342202592
+Côte d'Ivoire,GDP growth (annual %),1.721247367,2.017638592,8.84285995,7.702089422
+Côte d'Ivoire,GDP (current US$),17084927540,24884503951,33131113901,38053610009
 Cameroon,"Personal remittances, received (% of GDP)",0.429046893,0.439335029,0.781498566,0.906576993
 Cameroon,"Personal remittances, received (current US$)",76988535.8,114858952.7,241609804.7,316601909.7
 Cameroon,GDP growth (annual %),2.020662307,3.422507641,5.651463744,3.549087318
 Cameroon,GDP (current US$),17944084201,26143818510,30916218544,34922782311
-"Congo, Dem. Rep.","Personal remittances, received (% of GDP)",0.074386823,0.072800722,3.07657919,3.350450824
-"Congo, Dem. Rep.","Personal remittances, received (current US$)",8900000,15700000,1166568218,1273816799
-"Congo, Dem. Rep.",GDP growth (annual %),6.135151155,7.107976576,6.91618781,3.726947653
-"Congo, Dem. Rep.",GDP (current US$),11964484668,21565720044,37917704900,38019265626
+Congo,"Personal remittances, received (% of GDP)",0.074386823,0.072800722,3.07657919,3.350450824
+Congo,"Personal remittances, received (current US$)",8900000,15700000,1166568218,1273816799
+Congo,GDP growth (annual %),6.135151155,7.107976576,6.91618781,3.726947653
+Congo,GDP (current US$),11964484668,21565720044,37917704900,38019265626
 "Congo, Rep.","Personal remittances, received (% of GDP)",0.186875121,0.275691499,0.348227693,
 "Congo, Rep.","Personal remittances, received (current US$)",11375094.56,33104705.62,29784452.9,
 "Congo, Rep.",GDP growth (annual %),7.755758978,8.751601459,2.646485877,-3.1
@@ -187,18 +187,18 @@ Costa Rica,"Personal remittances, received (% of GDP)",2.107183219,1.423956241,1
 Costa Rica,"Personal remittances, received (current US$)",420346410,530688786,551988507.6,560366619.1
 Costa Rica,GDP growth (annual %),3.870873326,4.951863844,3.631731441,3.397181701
 Costa Rica,GDP (current US$),19948261084,37268616184,54775997556,58174550212
-Caribbean small states,"Personal remittances, received (% of GDP)",6.006317581,5.31311408,5.430355379,5.789989456
-Caribbean small states,"Personal remittances, received (current US$)",2345027436,2826099080,3248871336,3295240062
-Caribbean small states,GDP growth (annual %),3.719484518,1.462283047,1.168251237,0.294576117
-Caribbean small states,GDP (current US$),48878881379,63286770719,71620269050,69074812658
+Caribbean Netherlands,"Personal remittances, received (% of GDP)",6.006317581,5.31311408,5.430355379,5.789989456
+Caribbean Netherlands,"Personal remittances, received (current US$)",2345027436,2826099080,3248871336,3295240062
+Caribbean Netherlands,GDP growth (annual %),3.719484518,1.462283047,1.168251237,0.294576117
+Caribbean Netherlands,GDP (current US$),48878881379,63286770719,71620269050,69074812658
 Cuba,"Personal remittances, received (% of GDP)",,,,
 Cuba,"Personal remittances, received (current US$)",,,,
 Cuba,GDP growth (annual %),11.20165642,2.390352297,4.438141959,1.783497627
 Cuba,GDP (current US$),42643836075,64328000000,87133000000,96851000000
-Curacao,"Personal remittances, received (% of GDP)",,,4.517079052,5.138802059
-Curacao,"Personal remittances, received (current US$)",,,142374301.7,160156424.6
-Curacao,GDP growth (annual %),0.67642576,0.082305218,0.278695607,-1.739764784
-Curacao,GDP (current US$),,,3151910782,3116610112
+Curaçao,"Personal remittances, received (% of GDP)",,,4.517079052,5.138802059
+Curaçao,"Personal remittances, received (current US$)",,,142374301.7,160156424.6
+Curaçao,GDP growth (annual %),0.67642576,0.082305218,0.278695607,-1.739764784
+Curaçao,GDP (current US$),,,3151910782,3116610112
 Cayman Islands,"Personal remittances, received (% of GDP)",,,,
 Cayman Islands,"Personal remittances, received (current US$)",,,,
 Cayman Islands,GDP growth (annual %),6.499998003,-2.715636823,2.833122427,3.039347467
@@ -207,10 +207,10 @@ Cyprus,"Personal remittances, received (% of GDP)",0.568625913,3.371803198,1.290
 Cyprus,"Personal remittances, received (current US$)",104817181.3,861909265.4,253889961.5,379471173.5
 Cyprus,GDP growth (annual %),4.852991308,1.335403498,1.96230401,4.468879044
 Cyprus,GDP (current US$),18433416242,25562264901,19680625485,22141864999
-Czech Republic,"Personal remittances, received (% of GDP)",0.983644686,0.592383155,1.431691351,1.660487329
-Czech Republic,"Personal remittances, received (current US$)",1340517764,1229063882,2674828099,3585217057
-Czech Republic,GDP growth (annual %),6.533468806,2.273420052,5.309238519,4.352603518
-Czech Republic,GDP (current US$),1.36E+11,2.07E+11,1.87E+11,2.16E+11
+Czechia,"Personal remittances, received (% of GDP)",0.983644686,0.592383155,1.431691351,1.660487329
+Czechia,"Personal remittances, received (current US$)",1340517764,1229063882,2674828099,3585217057
+Czechia,GDP growth (annual %),6.533468806,2.273420052,5.309238519,4.352603518
+Czechia,GDP (current US$),1.36E+11,2.07E+11,1.87E+11,2.16E+11
 Germany,"Personal remittances, received (% of GDP)",0.239943894,0.374342263,0.460489531,0.451884876
 Germany,"Personal remittances, received (current US$)",6865779219,12791629121,15570943908,16689031816
 Germany,GDP growth (annual %),0.706713948,4.079933305,1.738967619,2.15710947
@@ -259,10 +259,10 @@ Ecuador,"Personal remittances, received (% of GDP)",5.92669902,3.736630473,2.404
 Ecuador,"Personal remittances, received (current US$)",2460000000,2599027039,2387555892,2849068577
 Ecuador,GDP growth (annual %),5.291296789,3.525298669,0.098872608,2.368386526
 Ecuador,GDP (current US$),41507085000,69555367000,99290381000,1.04E+11
-"Egypt, Arab Rep.","Personal remittances, received (% of GDP)",5.594312793,5.689248172,5.508117795,10.5100444
-"Egypt, Arab Rep.","Personal remittances, received (current US$)",5017300000,12453100000,18325400000,24737400000
-"Egypt, Arab Rep.",GDP growth (annual %),4.471744472,5.147234858,4.372019078,4.181221
-"Egypt, Arab Rep.",GDP (current US$),89685725230,2.19E+11,3.33E+11,2.35E+11
+Egypt,"Personal remittances, received (% of GDP)",5.594312793,5.689248172,5.508117795,10.5100444
+Egypt,"Personal remittances, received (current US$)",5017300000,12453100000,18325400000,24737400000
+Egypt,GDP growth (annual %),4.471744472,5.147234858,4.372019078,4.181221
+Egypt,GDP (current US$),89685725230,2.19E+11,3.33E+11,2.35E+11
 Euro area,"Personal remittances, received (% of GDP)",0.417341909,0.544149362,0.661097885,0.639524716
 Euro area,"Personal remittances, received (current US$)",43968449771,68842364935,77241175282,80802093875
 Euro area,GDP growth (annual %),1.704974391,2.078851071,2.114215347,2.414248317
@@ -307,10 +307,10 @@ Faroe Islands,"Personal remittances, received (% of GDP)",4.646524171,6.30888089
 Faroe Islands,"Personal remittances, received (current US$)",80282305.11,146392824.3,158411750,158411750
 Faroe Islands,GDP growth (annual %),,,,
 Faroe Islands,GDP (current US$),1727792693,2320424601,2518096286,
-"Micronesia, Fed. Sts.","Personal remittances, received (% of GDP)",,6.092802199,7.404886799,6.937215299
-"Micronesia, Fed. Sts.","Personal remittances, received (current US$)",,18066700,23338700,23338700
-"Micronesia, Fed. Sts.",GDP growth (annual %),2.056752063,2.041890243,4.931500557,3.199981628
-"Micronesia, Fed. Sts.",GDP (current US$),250149400,296525300,315179700,336427500
+Micronesia (Fed. States of),"Personal remittances, received (% of GDP)",,6.092802199,7.404886799,6.937215299
+Micronesia (Fed. States of),"Personal remittances, received (current US$)",,18066700,23338700,23338700
+Micronesia (Fed. States of),GDP growth (annual %),2.056752063,2.041890243,4.931500557,3.199981628
+Micronesia (Fed. States of),GDP (current US$),250149400,296525300,315179700,336427500
 Gabon,"Personal remittances, received (% of GDP)",0.115128767,0.267637797,0.128383009,
 Gabon,"Personal remittances, received (current US$)",11028154.17,38428998.66,18458042.25,
 Gabon,GDP growth (annual %),2.676203333,7.089887315,3.878899395,0.479762271
@@ -335,10 +335,10 @@ Guinea,"Personal remittances, received (% of GDP)",1.415355269,0.674986751,1.484
 Guinea,"Personal remittances, received (current US$)",41570000,46260000,130582308.4,43770000
 Guinea,GDP growth (annual %),2.997272562,4.820715414,3.81494989,13.36010547
 Guinea,GDP (current US$),2937071767,6853467858,8794202444,9915311049
-"Gambia, The","Personal remittances, received (% of GDP)",9.501222377,12.15573512,9.752459115,15.319678
-"Gambia, The","Personal remittances, received (current US$)",59304087.54,115699061,135963871.3,228181209.4
-"Gambia, The",GDP growth (annual %),-0.941675935,6.526297338,5.868247526,4.557731909
-"Gambia, The",GDP (current US$),624173239.9,951806368.7,1394149616,1489464788
+Gambia,"Personal remittances, received (% of GDP)",9.501222377,12.15573512,9.752459115,15.319678
+Gambia,"Personal remittances, received (current US$)",59304087.54,115699061,135963871.3,228181209.4
+Gambia,GDP growth (annual %),-0.941675935,6.526297338,5.868247526,4.557731909
+Gambia,GDP (current US$),624173239.9,951806368.7,1394149616,1489464788
 Guinea-Bissau,"Personal remittances, received (% of GDP)",3.391100669,5.404896187,8.107668562,7.790057569
 Guinea-Bissau,"Personal remittances, received (current US$)",19898832.08,45890277.97,84952814,104919759.1
 Guinea-Bissau,GDP growth (annual %),4.266098931,4.6109709,6.134082941,5.919176626
@@ -375,10 +375,10 @@ High income,"Personal remittances, received (% of GDP)",0.220257242,0.261975784,
 High income,"Personal remittances, received (current US$)",81674757034,1.17E+11,1.33E+11,1.38E+11
 High income,GDP growth (annual %),2.80435081,2.93549698,2.326822479,2.256178521
 High income,GDP (current US$),3.76E+13,4.54E+13,4.79E+13,5.10E+13
-"Hong Kong SAR, China","Personal remittances, received (% of GDP)",0.163441678,0.148518539,0.125006794,0.127879662
-"Hong Kong SAR, China","Personal remittances, received (current US$)",296761189.3,339569368.9,386750552.6,436898438.6
-"Hong Kong SAR, China",GDP growth (annual %),7.388178026,6.767685414,2.387808053,3.838406307
-"Hong Kong SAR, China",GDP (current US$),1.82E+11,2.29E+11,3.09E+11,3.42E+11
+"China, Hong Kong SAR","Personal remittances, received (% of GDP)",0.163441678,0.148518539,0.125006794,0.127879662
+"China, Hong Kong SAR","Personal remittances, received (current US$)",296761189.3,339569368.9,386750552.6,436898438.6
+"China, Hong Kong SAR",GDP growth (annual %),7.388178026,6.767685414,2.387808053,3.838406307
+"China, Hong Kong SAR",GDP (current US$),1.82E+11,2.29E+11,3.09E+11,3.42E+11
 Honduras,"Personal remittances, received (% of GDP)",18.66408022,16.64314011,17.60517562,18.8436262
 Honduras,"Personal remittances, received (current US$)",1805194920,2617906839,3667853295,4322761614
 Honduras,GDP growth (annual %),6.050599222,3.731140344,3.840079971,4.788026945
@@ -439,10 +439,10 @@ Ireland,"Personal remittances, received (% of GDP)",0.242179515,0.296290987,0.20
 Ireland,"Personal remittances, received (current US$)",512570605.6,658163144.7,603396879.9,596285186.5
 Ireland,GDP growth (annual %),5.667966764,1.922042197,25.11725091,7.221788744
 Ireland,GDP (current US$),2.12E+11,2.22E+11,2.91E+11,3.31E+11
-"Iran, Islamic Rep.","Personal remittances, received (% of GDP)",0.455725438,0.242470495,0.344671671,0.292943303
-"Iran, Islamic Rep.","Personal remittances, received (current US$)",1032000000,1181000000,1330000000,1330000000
-"Iran, Islamic Rep.",GDP growth (annual %),3.189804087,5.797938302,-1.32064512,3.755187367
-"Iran, Islamic Rep.",GDP (current US$),2.26E+11,4.87E+11,3.86E+11,4.54E+11
+Iran (Islamic Republic of),"Personal remittances, received (% of GDP)",0.455725438,0.242470495,0.344671671,0.292943303
+Iran (Islamic Republic of),"Personal remittances, received (current US$)",1032000000,1181000000,1330000000,1330000000
+Iran (Islamic Republic of),GDP growth (annual %),3.189804087,5.797938302,-1.32064512,3.755187367
+Iran (Islamic Republic of),GDP (current US$),2.26E+11,4.87E+11,3.86E+11,4.54E+11
 Iraq,"Personal remittances, received (% of GDP)",1.423484257,0.127565825,0.565920029,0.563526017
 Iraq,"Personal remittances, received (current US$)",711100000,176700000,1004500000,1088500000
 Iraq,GDP growth (annual %),4.400617409,6.402564845,2.477664617,-1.671287156
@@ -479,10 +479,10 @@ Kenya,"Personal remittances, received (% of GDP)",2.268082854,1.714389395,2.4516
 Kenya,"Personal remittances, received (current US$)",424991045.9,685757272.4,1569267846,1962255797
 Kenya,GDP growth (annual %),5.906666082,8.405699224,5.718507134,4.862538221
 Kenya,GDP (current US$),18737897745,40000088347,64007750179,78757391333
-Kyrgyz Republic,"Personal remittances, received (% of GDP)",12.7324666,26.41011628,25.27189147,32.27053226
-Kyrgyz Republic,"Personal remittances, received (current US$)",313250258.3,1266195469,1687701982,2485778060
-Kyrgyz Republic,GDP growth (annual %),-0.175548229,-0.471566848,3.9,4.7
-Kyrgyz Republic,GDP (current US$),2460248026,4794357795,6678178340,7702934800
+Kyrgyzstan,"Personal remittances, received (% of GDP)",12.7324666,26.41011628,25.27189147,32.27053226
+Kyrgyzstan,"Personal remittances, received (current US$)",313250258.3,1266195469,1687701982,2485778060
+Kyrgyzstan,GDP growth (annual %),-0.175548229,-0.471566848,3.9,4.7
+Kyrgyzstan,GDP (current US$),2460248026,4794357795,6678178340,7702934800
 Cambodia,"Personal remittances, received (% of GDP)",2.601283954,4.958570873,6.56772097,5.838057426
 Cambodia,"Personal remittances, received (current US$)",163700000,557456183.5,1185470633,1294717701
 Cambodia,GDP growth (annual %),13.25008691,5.963078575,7.036087179,7.01503011
@@ -491,14 +491,14 @@ Kiribati,"Personal remittances, received (% of GDP)",,10.02427031,8.209572095,9.
 Kiribati,"Personal remittances, received (current US$)",,15649980.56,14048045.1,17959541.39
 Kiribati,GDP growth (annual %),4.951631626,-0.923884657,10.40540793,0.328439777
 Kiribati,GDP (current US$),112133944.3,156120895.2,171117872.4,185572501.5
-St. Kitts and Nevis,"Personal remittances, received (% of GDP)",5.238811278,6.133799938,2.159314011,2.199570809
-St. Kitts and Nevis,"Personal remittances, received (current US$)",30266233.33,47033062.22,20217968.27,21819905.26
-St. Kitts and Nevis,GDP growth (annual %),9.695235313,-1.466050863,2.146656524,1.170562676
-St. Kitts and Nevis,GDP (current US$),577730934.1,766785071.2,936314411.5,992007403.1
-"Korea, Rep.","Personal remittances, received (% of GDP)",0.57902067,0.534829012,0.467462262,0.426352838
-"Korea, Rep.","Personal remittances, received (current US$)",5200400000,5853700000,6463900000,6526400000
-"Korea, Rep.",GDP growth (annual %),3.923677392,6.496793586,2.790236167,3.062768462
-"Korea, Rep.",GDP (current US$),8.98E+11,1.09E+12,1.38E+12,1.53E+12
+Saint Kitts and Nevis,"Personal remittances, received (% of GDP)",5.238811278,6.133799938,2.159314011,2.199570809
+Saint Kitts and Nevis,"Personal remittances, received (current US$)",30266233.33,47033062.22,20217968.27,21819905.26
+Saint Kitts and Nevis,GDP growth (annual %),9.695235313,-1.466050863,2.146656524,1.170562676
+Saint Kitts and Nevis,GDP (current US$),577730934.1,766785071.2,936314411.5,992007403.1
+Republic of Korea,"Personal remittances, received (% of GDP)",0.57902067,0.534829012,0.467462262,0.426352838
+Republic of Korea,"Personal remittances, received (current US$)",5200400000,5853700000,6463900000,6526400000
+Republic of Korea,GDP growth (annual %),3.923677392,6.496793586,2.790236167,3.062768462
+Republic of Korea,GDP (current US$),8.98E+11,1.09E+12,1.38E+12,1.53E+12
 Kuwait,"Personal remittances, received (% of GDP)",,0.004165789,0.029908966,0.019198227
 Kuwait,"Personal remittances, received (current US$)",,4808113.945,34265894.53,22951786.93
 Kuwait,GDP growth (annual %),10.07595099,-2.367061944,0.593019617,-3.48154919
@@ -507,10 +507,10 @@ Latin America & Caribbean (excluding high income),"Personal remittances, receive
 Latin America & Caribbean (excluding high income),"Personal remittances, received (current US$)",48622702454,56108131378,67912822103,80861724078
 Latin America & Caribbean (excluding high income),GDP growth (annual %),4.313142459,6.009045752,-0.064061083,1.734269699
 Latin America & Caribbean (excluding high income),GDP (current US$),2.57E+12,4.90E+12,5.00E+12,5.41E+12
-Lao PDR,"Personal remittances, received (% of GDP)",0.030341151,0.586075196,1.314851765,1.499756594
-Lao PDR,"Personal remittances, received (current US$)",830000,41774224.63,189212313.6,252755290.8
-Lao PDR,GDP growth (annual %),7.107568369,8.526905517,7.269591775,6.851431259
-Lao PDR,GDP (current US$),2735558726,7127792630,14390391264,16853087485
+Lao People's Democratic Republic,"Personal remittances, received (% of GDP)",0.030341151,0.586075196,1.314851765,1.499756594
+Lao People's Democratic Republic,"Personal remittances, received (current US$)",830000,41774224.63,189212313.6,252755290.8
+Lao People's Democratic Republic,GDP growth (annual %),7.107568369,8.526905517,7.269591775,6.851431259
+Lao People's Democratic Republic,GDP (current US$),2735558726,7127792630,14390391264,16853087485
 Lebanon,"Personal remittances, received (% of GDP)",22.91446861,17.99615366,14.96945018,13.25420097
 Lebanon,"Personal remittances, received (current US$)",4924310615,6914055025,7480817046,7076921514
 Lebanon,GDP growth (annual %),2.748394055,8.037249354,0.415030765,0.551994777
@@ -523,10 +523,10 @@ Libya,"Personal remittances, received (% of GDP)",0.031689595,,,
 Libya,"Personal remittances, received (current US$)",15000000,,,
 Libya,GDP growth (annual %),11.87072893,5.021289739,-8.862039363,26.67587012
 Libya,GDP (current US$),47334148578,74773444901,27842131480,38115981879
-St. Lucia,"Personal remittances, received (% of GDP)",2.663876826,2.072154253,2.291232795,2.1639361
-St. Lucia,"Personal remittances, received (current US$)",27063248.15,28993654.44,37597427.02,39170270.51
-St. Lucia,GDP growth (annual %),-0.410303993,0.303818186,0.27250039,3.671861435
-St. Lucia,GDP (current US$),1015934667,1399203481,1640925667,1810139889
+Saint Lucia,"Personal remittances, received (% of GDP)",2.663876826,2.072154253,2.291232795,2.1639361
+Saint Lucia,"Personal remittances, received (current US$)",27063248.15,28993654.44,37597427.02,39170270.51
+Saint Lucia,GDP growth (annual %),-0.410303993,0.303818186,0.27250039,3.671861435
+Saint Lucia,GDP (current US$),1015934667,1399203481,1640925667,1810139889
 Latin America & Caribbean,"Personal remittances, received (% of GDP)",1.809174724,1.103786992,1.409386206,1.543197682
 Latin America & Caribbean,"Personal remittances, received (current US$)",49078289836,56950318894,69137543097,82088431063
 Latin America & Caribbean,GDP growth (annual %),4.249671049,5.849832657,0.087392111,1.656188214
@@ -575,10 +575,10 @@ Latvia,"Personal remittances, received (% of GDP)",2.240729858,5.293749283,4.918
 Latvia,"Personal remittances, received (current US$)",379187600.8,1257655513,1326550507,1265118729
 Latvia,GDP growth (annual %),10.69703706,-3.940670306,2.971703832,4.636479621
 Latvia,GDP (current US$),16922504045,23757368290,26972863394,30463302414
-"Macao SAR, China","Personal remittances, received (% of GDP)",0.439540716,0.166598303,0.087138772,0.05028871
-"Macao SAR, China","Personal remittances, received (current US$)",53150239.34,46853508.75,39527609.17,25425686.27
-"Macao SAR, China",GDP growth (annual %),8.060186412,25.26388071,-21.59448768,9.703992759
-"Macao SAR, China",GDP (current US$),12092222042,28123640999,45361678147,50559431846
+"China, Macao SAR","Personal remittances, received (% of GDP)",0.439540716,0.166598303,0.087138772,0.05028871
+"China, Macao SAR","Personal remittances, received (current US$)",53150239.34,46853508.75,39527609.17,25425686.27
+"China, Macao SAR",GDP growth (annual %),8.060186412,25.26388071,-21.59448768,9.703992759
+"China, Macao SAR",GDP (current US$),12092222042,28123640999,45361678147,50559431846
 St. Martin (French part),"Personal remittances, received (% of GDP)",,,,
 St. Martin (French part),"Personal remittances, received (current US$)",,,,
 St. Martin (French part),GDP growth (annual %),,,,
@@ -591,10 +591,10 @@ Monaco,"Personal remittances, received (% of GDP)",,,,
 Monaco,"Personal remittances, received (current US$)",,,,
 Monaco,GDP growth (annual %),1.895415281,2.054293852,4.942329761,-3.5
 Monaco,GDP (current US$),4203084194,5362649007,6258178995,6400946586
-Moldova,"Personal remittances, received (% of GDP)",30.62169893,25.13032208,19.88475061,16.94861095
-Moldova,"Personal remittances, received (current US$)",915080000,1752830000,1540120000,1638890000
-Moldova,GDP growth (annual %),7.500000095,7.100000092,-0.338235296,4.690793428
-Moldova,GDP (current US$),2988338439,6974960345,7745231660,9669759987
+Republic of Moldova,"Personal remittances, received (% of GDP)",30.62169893,25.13032208,19.88475061,16.94861095
+Republic of Moldova,"Personal remittances, received (current US$)",915080000,1752830000,1540120000,1638890000
+Republic of Moldova,GDP growth (annual %),7.500000095,7.100000092,-0.338235296,4.690793428
+Republic of Moldova,GDP (current US$),2988338439,6974960345,7745231660,9669759987
 Madagascar,"Personal remittances, received (% of GDP)",2.017603573,5.221407547,3.354232069,2.989546897
 Madagascar,"Personal remittances, received (current US$)",101672956.3,455825544.2,326844541.4,342776977.9
 Madagascar,GDP growth (annual %),4.602899965,0.263110856,3.116614714,4.30687978
@@ -619,10 +619,10 @@ Middle income,"Personal remittances, received (% of GDP)",1.746836437,1.42749090
 Middle income,"Personal remittances, received (current US$)",1.66E+11,2.88E+11,4.07E+11,4.20E+11
 Middle income,GDP growth (annual %),7.001143742,7.368550205,3.902790831,4.856024965
 Middle income,GDP (current US$),9.67E+12,2.03E+13,2.67E+13,2.94E+13
-North Macedonia,"Personal remittances, received (% of GDP)",3.620113974,4.123782291,3.046910475,2.788236107
-North Macedonia,"Personal remittances, received (current US$)",226568479,387931157,306656775,314499343
-North Macedonia,GDP growth (annual %),4.723733083,3.358750858,3.855610302,0.240521014
-North Macedonia,GDP (current US$),6258600714,9407168702,10064515432,11279509014
+TFYR Macedonia,"Personal remittances, received (% of GDP)",3.620113974,4.123782291,3.046910475,2.788236107
+TFYR Macedonia,"Personal remittances, received (current US$)",226568479,387931157,306656775,314499343
+TFYR Macedonia,GDP growth (annual %),4.723733083,3.358750858,3.855610302,0.240521014
+TFYR Macedonia,GDP (current US$),6258600714,9407168702,10064515432,11279509014
 Mali,"Personal remittances, received (% of GDP)",2.837232299,4.426974669,6.233841297,5.758016794
 Mali,"Personal remittances, received (current US$)",177186056.2,472745533.9,816601762.1,883257573.6
 Mali,GDP growth (annual %),6.534762657,5.413452222,5.962581591,5.400000103
@@ -763,10 +763,10 @@ Puerto Rico,"Personal remittances, received (% of GDP)",,,,
 Puerto Rico,"Personal remittances, received (current US$)",,,,
 Puerto Rico,GDP growth (annual %),-1.986938733,-0.413254118,-1.049443651,-2.65739342
 Puerto Rico,GDP (current US$),83914521300,98381300000,1.03E+11,1.04E+11
-"Korea, Dem. People’s Rep.","Personal remittances, received (% of GDP)",,,,
-"Korea, Dem. People’s Rep.","Personal remittances, received (current US$)",,,,
-"Korea, Dem. People’s Rep.",GDP growth (annual %),,,,
-"Korea, Dem. People’s Rep.",GDP (current US$),,,,
+Dem. People's Republic of Korea,"Personal remittances, received (% of GDP)",,,,
+Dem. People's Republic of Korea,"Personal remittances, received (current US$)",,,,
+Dem. People's Republic of Korea,GDP growth (annual %),,,,
+Dem. People's Republic of Korea,GDP (current US$),,,,
 Portugal,"Personal remittances, received (% of GDP)",0.19602119,0.216956379,0.185080124,0.206383435
 Portugal,"Personal remittances, received (current US$)",386758653.6,517014522.3,369087256.6,452615641.8
 Portugal,GDP growth (annual %),0.766784431,1.898691176,1.822065644,2.795024248
@@ -775,10 +775,10 @@ Paraguay,"Personal remittances, received (% of GDP)",1.502211848,1.506045975,1.5
 Paraguay,"Personal remittances, received (current US$)",161300000,409885000,553640400,704073600
 Paraguay,GDP growth (annual %),2.133490665,11.14373579,3.080374008,4.958051422
 Paraguay,GDP (current US$),10737500188,27215968616,36164068797,39008900332
-West Bank and Gaza,"Personal remittances, received (% of GDP)",7.830151059,10.40198569,14.40747496,14.78040488
-West Bank and Gaza,"Personal remittances, received (current US$)",378337238.9,927139386.6,1825859302,2142877880
-West Bank and Gaza,GDP growth (annual %),10.79876211,8.099089262,3.428732254,3.14023678
-West Bank and Gaza,GDP (current US$),4831800000,8913100000,12673000000,14498100000
+State of Palestine,"Personal remittances, received (% of GDP)",7.830151059,10.40198569,14.40747496,14.78040488
+State of Palestine,"Personal remittances, received (current US$)",378337238.9,927139386.6,1825859302,2142877880
+State of Palestine,GDP growth (annual %),10.79876211,8.099089262,3.428732254,3.14023678
+State of Palestine,GDP (current US$),4831800000,8913100000,12673000000,14498100000
 Pacific island small states,"Personal remittances, received (% of GDP)",8.112724925,7.472067878,7.332212838,6.974417121
 Pacific island small states,"Personal remittances, received (current US$)",396295873.1,475768921.3,645914037,681366005.6
 Pacific island small states,GDP growth (annual %),2.27781456,2.900447515,3.678484603,4.042383958
@@ -875,10 +875,10 @@ Suriname,"Personal remittances, received (% of GDP)",0.217465401,0.098434253,0.1
 Suriname,"Personal remittances, received (current US$)",3900000,4300000,6705559.504,656951.7851
 Suriname,GDP growth (annual %),4.500000692,5.165237772,-3.411095864,1.687083602
 Suriname,GDP (current US$),1793388732,4368398048,4787367928,3068766110
-Slovak Republic,"Personal remittances, received (% of GDP)",1.932448485,1.777950675,2.435428282,2.262033426
-Slovak Republic,"Personal remittances, received (current US$)",1211597664,1591283863,2137565543,2162903663
-Slovak Republic,GDP growth (annual %),6.750960834,5.041716665,4.174873197,3.188341055
-Slovak Republic,GDP (current US$),62697540107,89501012916,87769595120,95617670260
+Slovakia,"Personal remittances, received (% of GDP)",1.932448485,1.777950675,2.435428282,2.262033426
+Slovakia,"Personal remittances, received (current US$)",1211597664,1591283863,2137565543,2162903663
+Slovakia,GDP growth (annual %),6.750960834,5.041716665,4.174873197,3.188341055
+Slovakia,GDP (current US$),62697540107,89501012916,87769595120,95617670260
 Slovenia,"Personal remittances, received (% of GDP)",0.71835416,0.723334583,0.873960909,0.985752344
 Slovenia,"Personal remittances, received (current US$)",261100000,347299022.3,376695017.9,477655360.9
 Slovenia,GDP growth (annual %),4.003007364,1.237755909,2.304895835,4.880537506
@@ -975,10 +975,10 @@ Tuvalu,"Personal remittances, received (% of GDP)",22.58344133,12.31716389,11.43
 Tuvalu,"Personal remittances, received (current US$)",4932020.084,3919900.614,4056908.045,4056908.045
 Tuvalu,GDP growth (annual %),-3.779729962,-2.729427912,9.142893933,4.094017717
 Tuvalu,GDP (current US$),21839098.89,31824701.28,35492333.86,40620557.13
-Tanzania,"Personal remittances, received (% of GDP)",0.105257088,1.075419709,0.818446347,0.755120021
-Tanzania,"Personal remittances, received (current US$)",19366300,344287552.6,387768413,402634721.8
-Tanzania,GDP growth (annual %),7.476319258,6.336523427,6.160628774,6.785680114
-Tanzania,GDP (current US$),18399046025,32014249841,47378599025,53320625959
+United Republic of Tanzania,"Personal remittances, received (% of GDP)",0.105257088,1.075419709,0.818446347,0.755120021
+United Republic of Tanzania,"Personal remittances, received (current US$)",19366300,344287552.6,387768413,402634721.8
+United Republic of Tanzania,GDP growth (annual %),7.476319258,6.336523427,6.160628774,6.785680114
+United Republic of Tanzania,GDP (current US$),18399046025,32014249841,47378599025,53320625959
 Uganda,"Personal remittances, received (% of GDP)",3.570162038,3.8183403,3.32866907,4.484475863
 Uganda,"Personal remittances, received (current US$)",321808493,770789132,902157540.5,1165740929
 Uganda,GDP growth (annual %),6.332565116,5.637599803,5.187859863,3.863023757
@@ -995,34 +995,34 @@ Uruguay,"Personal remittances, received (% of GDP)",0.441980182,0.310022606,0.15
 Uruguay,"Personal remittances, received (current US$)",76740390,124891000,84918076.16,98463033.07
 Uruguay,GDP growth (annual %),7.460132106,7.803409668,0.370741267,2.591338687
 Uruguay,GDP (current US$),17362857684,40284481652,53274304222,56488991831
-United States,"Personal remittances, received (% of GDP)",0.036780949,0.03955429,0.036104575,0.032337042
-United States,"Personal remittances, received (current US$)",4795000000,5930000000,6578000000,6301000000
-United States,GDP growth (annual %),3.513213797,2.563766558,2.880910466,2.21701033
-United States,GDP (current US$),1.30E+13,1.50E+13,1.82E+13,1.95E+13
+United States of America,"Personal remittances, received (% of GDP)",0.036780949,0.03955429,0.036104575,0.032337042
+United States of America,"Personal remittances, received (current US$)",4795000000,5930000000,6578000000,6301000000
+United States of America,GDP growth (annual %),3.513213797,2.563766558,2.880910466,2.21701033
+United States of America,GDP (current US$),1.30E+13,1.50E+13,1.82E+13,1.95E+13
 Uzbekistan,"Personal remittances, received (% of GDP)",,7.26620559,3.741107988,
 Uzbekistan,"Personal remittances, received (current US$)",,2858000000,3062000000,
 Uzbekistan,GDP growth (annual %),6.950007201,8.479061864,7.448470308,4.461627697
 Uzbekistan,GDP (current US$),14307509839,39332770929,81847410182,59159949231
-St. Vincent and the Grenadines,"Personal remittances, received (% of GDP)",4.070515601,4.265207482,5.515646166,5.763846382
-St. Vincent and the Grenadines,"Personal remittances, received (current US$)",22417496.3,29055700.74,41668391.94,45259019.18
-St. Vincent and the Grenadines,GDP growth (annual %),2.488004855,-3.35352589,1.341638992,0.859946222
-St. Vincent and the Grenadines,GDP (current US$),550728666.7,681225963,755458031.4,785222509.1
-"Venezuela, RB","Personal remittances, received (% of GDP)",0.101711217,0.036368968,,
-"Venezuela, RB","Personal remittances, received (current US$)",148000000,143000000,161000000,279000000
-"Venezuela, RB",GDP growth (annual %),10.3179138,-1.488791251,,
-"Venezuela, RB",GDP (current US$),1.46E+11,3.93E+11,,
+Saint Vincent and the Grenadines,"Personal remittances, received (% of GDP)",4.070515601,4.265207482,5.515646166,5.763846382
+Saint Vincent and the Grenadines,"Personal remittances, received (current US$)",22417496.3,29055700.74,41668391.94,45259019.18
+Saint Vincent and the Grenadines,GDP growth (annual %),2.488004855,-3.35352589,1.341638992,0.859946222
+Saint Vincent and the Grenadines,GDP (current US$),550728666.7,681225963,755458031.4,785222509.1
+Venezuela (Bolivarian Republic of),"Personal remittances, received (% of GDP)",0.101711217,0.036368968,,
+Venezuela (Bolivarian Republic of),"Personal remittances, received (current US$)",148000000,143000000,161000000,279000000
+Venezuela (Bolivarian Republic of),GDP growth (annual %),10.3179138,-1.488791251,,
+Venezuela (Bolivarian Republic of),GDP (current US$),1.46E+11,3.93E+11,,
 British Virgin Islands,"Personal remittances, received (% of GDP)",,,,
 British Virgin Islands,"Personal remittances, received (current US$)",,,,
 British Virgin Islands,GDP growth (annual %),,,,
 British Virgin Islands,GDP (current US$),,,,
-Virgin Islands (U.S.),"Personal remittances, received (% of GDP)",,,,
-Virgin Islands (U.S.),"Personal remittances, received (current US$)",,,,
-Virgin Islands (U.S.),GDP growth (annual %),3.632264529,0.904116108,0.194174757,-1.696542894
-Virgin Islands (U.S.),GDP (current US$),4439000000,4339000000,3748000000,3855000000
-Vietnam,"Personal remittances, received (% of GDP)",5.465594415,7.124881684,6.727347036,6.703015906
-Vietnam,"Personal remittances, received (current US$)",3150000000,8260000000,13000000000,15000000000
-Vietnam,GDP growth (annual %),7.547247727,6.423238217,6.679288789,6.81224566
-Vietnam,GDP (current US$),57633255618,1.16E+11,1.93E+11,2.24E+11
+United States Virgin Islands,"Personal remittances, received (% of GDP)",,,,
+United States Virgin Islands,"Personal remittances, received (current US$)",,,,
+United States Virgin Islands,GDP growth (annual %),3.632264529,0.904116108,0.194174757,-1.696542894
+United States Virgin Islands,GDP (current US$),4439000000,4339000000,3748000000,3855000000
+Viet Nam,"Personal remittances, received (% of GDP)",5.465594415,7.124881684,6.727347036,6.703015906
+Viet Nam,"Personal remittances, received (current US$)",3150000000,8260000000,13000000000,15000000000
+Viet Nam,GDP growth (annual %),7.547247727,6.423238217,6.679288789,6.81224566
+Viet Nam,GDP (current US$),57633255618,1.16E+11,1.93E+11,2.24E+11
 Vanuatu,"Personal remittances, received (% of GDP)",1.290657359,1.679301293,3.262362066,2.219997759
 Vanuatu,"Personal remittances, received (current US$)",5097613.246,11768615.44,24073529.22,18863506.16
 Vanuatu,GDP growth (annual %),5.30285231,1.629081596,-0.801094177,4.500680305
@@ -1039,10 +1039,10 @@ Kosovo,"Personal remittances, received (% of GDP)",19.14528242,17.26964315,15.07
 Kosovo,"Personal remittances, received (current US$)",701311147.4,1006900253,971064937.2,1111318715
 Kosovo,GDP growth (annual %),6.033229748,3.309574839,4.094454536,4.227908537
 Kosovo,GDP (current US$),3663101604,5830463576,6440612177,7227764977
-"Yemen, Rep.","Personal remittances, received (% of GDP)",7.658978827,4.937432836,7.859796855,14.0595317
-"Yemen, Rep.","Personal remittances, received (current US$)",1282599000,1526000000,3350500000,3770584064
-"Yemen, Rep.",GDP growth (annual %),5.591748076,7.70230704,-16.67846313,-5.942319504
-"Yemen, Rep.",GDP (current US$),16746344766,30906749533,42628328212,26818703093
+Yemen,"Personal remittances, received (% of GDP)",7.658978827,4.937432836,7.859796855,14.0595317
+Yemen,"Personal remittances, received (current US$)",1282599000,1526000000,3350500000,3770584064
+Yemen,GDP growth (annual %),5.591748076,7.70230704,-16.67846313,-5.942319504
+Yemen,GDP (current US$),16746344766,30906749533,42628328212,26818703093
 South Africa,"Personal remittances, received (% of GDP)",0.238123983,0.284953502,0.259892208,0.250296098
 South Africa,"Personal remittances, received (current US$)",613577432.4,1069571381,825253479.9,873212122.8
 South Africa,GDP growth (annual %),5.277056312,3.039730814,1.279549282,1.31674486
