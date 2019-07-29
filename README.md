@@ -45,9 +45,12 @@ Note that the results all resulst will be saved on disk in addition to showinh t
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Pandas](https://pandas.pydata.org/) - Used to clean and analyze data 
+* [Numpy](https://numpy.org/) - Used to run calsulations (data analysis)
+* [Matplotlib](https://matplotlib.org/) - Used to generate graphical plots
+* [GeoPandas](http://geopandas.org/) - Used to analyze migrations data and create maps
+* [Plotly] (https://plot.ly/) - Used to create complex visualizations
+* [PlotlyOrca](https://github.com/plotly/orca) - Used to generate images(png)
 
 ## Contributing
 
