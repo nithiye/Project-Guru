@@ -1,6 +1,6 @@
 # Project Guru
 
-One Paragraph of project description goes here
+ Project Guru wanted to explore the world! Our project was to study the impact of migration on a countries GDP. While conducting our initial research, we were able to find the amount of cash remittances and percentage in relation to the country's GDP. Our hypothesis: The impact of cash remittances to GDP is more significant in countries with higher numbers of migration. Using United Nations and World Bank data we were able to test this hypothesis and consider factors outside of our original scope.  Additional factors, such as a country’s level of income, lead us to more thorough analysis and allowed us to test our hypothesis in many different environments. 
 
 ## Getting Started
 
