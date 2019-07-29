@@ -1,4 +1,4 @@
-# Project Title
+# Project Guru
 
 One Paragraph of project description goes here
 
