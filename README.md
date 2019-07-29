@@ -21,15 +21,15 @@ Obviously you will need python and Jupyter Notebooks. Additionally, you will req
 ### Installing
 
 You can install your libraries using  pip:
-	# pip install sklearn-pandas
+* pip install sklearn-pandas
 	
 or using conda:
-	# conda install plotly
+* conda install plotly
 
 Now, plotly-orca is little bit different. You will need to:
-	# conda install -c plotly plotly-orca
+* conda install -c plotly plotly-orca
 
-Last but not least, download "Project-Guru" to your local directory
+Last but not least, download "Project-Guru" to a local directory
 
 ## Running the tests
 
@@ -39,8 +39,8 @@ Last but not least, download "Project-Guru" to your local directory
 4. Open any of the other files (Plot_Maps.ipynb, Plot_GDPMigrant_Data.ipynb, Chi Square.ipynb) and execute it. The charts will be sent to screen.
 
 Note that the results all resulst will be saved on disk in addition to showinh then on the scree. The files will be in:
-	* Images directory - All charts (png-type files) will be stored in this directory
-	* Output directory - All data files (CSV files) will be stored in this directory
+* Images directory - All charts (png-type files) will be stored in this directory
+* Output directory - All data files (CSV files) will be stored in this directory
 
 
 ## Built With
@@ -55,13 +55,13 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+v 1.0
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* Donicia Williams
+* Nithya Iyengar
+* Martha Aguilar
 
 ## License
 
@@ -69,6 +69,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Matplotlib documentation for its broken axis example
+
